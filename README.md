@@ -12,3 +12,5 @@
 
 
 ### Languages and Tools
+
+[![Phodal's Idea](http://brand.phodal.com/shields/idea-small.svg)](http://ideas.phodal.com/) [![Phodal's Article](http://brand.phodal.com/shields/works-small.svg)](https://www.phodal.com/)
