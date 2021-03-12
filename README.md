@@ -1,7 +1,7 @@
 ###  Hi, I’m @dnslin👋
 你好，我是dnslin，来自中国，我的家乡在衡阳
 - 👀 我对编程很有热情，现在是一名Java程序开发人员
-- 🌱 我正在学习java,vue，sql，dnslin
+- 🌱 我正在学习Java,Vue，Sql，Springboot,SpringCloud
 - 💞️ 我的blog:https://dnslin.com
 - 📫 可以通过邮箱来联系我:i@blankmiss.com
 - 👯 我在寻找志同道合的伙伴
