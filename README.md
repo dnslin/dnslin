@@ -4,3 +4,4 @@
 - 💞️ 我的blog:https://dnslin.com
 - 📫 i@blankmiss.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslin)](https://github.com/anuraghazra/github-readme-stats)
