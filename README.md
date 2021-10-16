@@ -1,10 +1,10 @@
 ###  Hi, I’m [@dnslin](https://dnslin.com)👋
-你好，我是dnslin，来自中国，我的家乡在衡阳
-- 👀 我对编程很有热情，现在是一名Java程序开发工程师
-- 🌱 我正在找工作 技术栈 Java ,Vue, Sql, Springboot, SpringCloud
-- 💞️ 我的blog:https://dnslin.com
-- 👯 我在寻找志同道合的伙伴
-- 📫 可以通过邮箱来联系我:i@blankmiss.club
+你好，我是dnslin，来自中国，在长沙工作！😁
+- 👀 我对编程很有热情，现在是一名Java程序开发工程师 😊
+- 🌱 我正在找工作 技术栈 Java ,Vue, Sql, Springboot, SpringCloud 😉
+- 💞️ 我的blog:https://dnslin.com 😅
+- 👯 我在寻找志同道合的伙伴 🥰
+- 📫 可以通过邮箱来联系我:i@blankmiss.club 🤩
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslin&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnslin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
