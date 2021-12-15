@@ -1,7 +1,7 @@
 ###  Hi, I’m [@dnslin](https://dnslin.com)👋
 ![](https://github.com/dnslin/dnslin/blob/main/header_.png)
 Hello, I'm dnslin, from China, working in Dongguan ! 😁
-- 👀 我对编程很有热情，现在是一名JavaWeb开发工程师 😊
+- 👀 I am very passionate about programming and now I am a Java Web Development Engineer 😊
 - 🌱 我正在工作 技术栈 Java ,Vue, Sql, Springboot, SpringCloud 😉
 - 💞️ 我的blog:https://dnslin.com 😅
 - 👯 我在寻找志同道合的伙伴 🥰
