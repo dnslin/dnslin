@@ -2,10 +2,10 @@
 ![](https://github.com/dnslin/dnslin/blob/main/header_.png)
 Hello, I'm dnslin, from China, working in Dongguan ! 😁
 - 👀 I am very passionate about programming and now I am a Java Web Development Engineer 😊
-- 🌱 我正在工作 技术栈 Java ,Vue, Sql, Springboot, SpringCloud 😉
-- 💞️ 我的blog:https://dnslin.com 😅
-- 👯 我在寻找志同道合的伙伴 🥰
-- 📫 可以通过邮箱来联系我:i@zwm.me 🤩
+- 🌱 My working technology stack Java ,Vue, Sql, Springboot, SpringCloud 😉
+- 💞️ My Blog:https://dnslin.com 😅
+- 👯 I am looking for like-minded partners to make progress together 🥰
+- 📫 You can contact me via Email:i@zwm.me 🤩
 - =......=
 
 
