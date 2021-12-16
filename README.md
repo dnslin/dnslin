@@ -1,4 +1,4 @@
-###  Hi, I’m [@dnslin](https://dnslin.com)👋
+###  Hi, I’m [@DnsLin](https://dnslin.com)👋
 ![](https://github.com/dnslin/dnslin/blob/main/header_.png)
 Hello, I'm dnslin, from China, working in Dongguan ! 😁
 - 👀 I am very passionate about programming and now I am a Java Web Development Engineer 😊
