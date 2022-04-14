@@ -3,8 +3,8 @@
 tmpdir="/tmp/dnslin"
 [ -d "${tmpdir}" ] || mkdir -p ${tmpdir}
 
-docker_compose_amd64="https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-linux-x86_64"
-docker_compose_aarch64="https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-linux-aarch64"
+docker_compose_amd64="https://github.do/https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-linux-x86_64"
+docker_compose_aarch64="https://github.do/https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-linux-aarch64"
 
 jdk_amd64="https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axvgf8otgjuo/b/debian/o/jdkjdk-8u321-linux-x64.tar.gz"
 jdk_aarch64="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-c99d1a5b-9981-46ab-8ebb-c79fc51f2da2/aa9c744d-71a4-496c-b775-35fef3f2896f.gz"
