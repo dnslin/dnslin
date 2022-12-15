@@ -10,7 +10,7 @@ Hello, I'm dnslin, from China, working in Chang Sha ! 😁
 - 🌱 My working technology stack Java ,Vue, Sql, Springboot, SpringCloud 😉
 - 💞️ My Blog: https://dnslin.com 😅
 - 👯 I am looking for like-minded partners to make progress together 🥰
-- 📫 You can contact me via Email: notify@lke.me 🤩
+- 📫 You can contact me via Email: dnslin@utexas.edu 🤩
 - =....=
 
 
