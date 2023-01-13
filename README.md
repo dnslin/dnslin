@@ -15,7 +15,6 @@ Hello, I'm dnslin, from China, working in Chang Sha ! 😁
 
 <a href="https://app.daily.dev/dnslin"><img src="https://api.daily.dev/devcards/8130e83bdb3846a2870313011fcb78e7.png?r=n8q" width="200" alt="DnsLin's Dev Card"/></a>
 
-![DnsLin'Start](https://github-readme-stats.vercel.app/api?username=dnslin&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnslin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools
