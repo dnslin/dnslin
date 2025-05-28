@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/dnslin/dnslin/blob/main/header_.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/dnslin/dnslin/blob/main/.github/header_.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
