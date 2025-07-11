@@ -40,10 +40,6 @@
 ![dnslin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnslin&theme=tokyo-night)
 
 
-### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
-
-
 
 <br/>  
 
