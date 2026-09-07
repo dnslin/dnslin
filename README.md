@@ -32,7 +32,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dnslin/dnslin/output/github-contribution-grid-snake.svg">
 </picture>
 
-![dnslin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnslin&theme=tokyo-night)
 
 
 
