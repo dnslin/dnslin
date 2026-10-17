@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, I'm dnslin, from China, working in ZhongShan ! 😁</div> 
+### <div align="center">Hello, I'm dnslin, from China ! 😁</div> 
 
 - 👀 I am very passionate about programming and now I am a Java Web Development Engineer 😊  
   
