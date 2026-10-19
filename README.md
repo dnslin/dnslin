@@ -3,15 +3,10 @@
 </div>  
   
 
-### <div align="center">Hello, I'm dnslin, from China ! 😁</div> 
+### <div align="center">Hello, I'm dnslin ! 😁</div> 
 
-- 👀 I am very passionate about programming and now I am a Java Web Development Engineer 😊  
-  
 
-- 🌱 My working technology stack Java ,Vue, Sql, Springboot, SpringCloud 😉  
-  
-
-- 💞️ My Blog: https://dnslin.com 😅  
+- 💞️ My Blog: https://dnsl.in 😅  
   
 
 - 👯 I am looking for like-minded partners to make progress together 🥰  
